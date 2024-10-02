@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BillyBrothers
 - 👀 I’m interested in ... Data Analyst, Engineering, Science -- Anything Data!
 - 🌱 I’m currently learning ... Building Data Structures and Algorithms with Python
-- 💞️ I’m looking to collaborate on ... I don't know. I'm so new to coding, so I'm still in the education phase; I'm earning different Nanodegrees on Udacity's platform.
+- 💞️ I’m looking to collaborate on ... I don't know. I'm so new to coding, so I'm still in the education phase; I'm in Nashville Software School's Data Science Cohort 8.
 - 📫 How to reach me ... billy.brothers0@gmail.com or message me on here?
-- ⚡ Fun fact: ... I look like a Viking -- though I never received this as a compliment because those guys weren't exactly nice fellas. 
+- ⚡ Fun fact: ... I'm co-writing a memoir with my uncle about his life as a wayfaring alcoholic suffering from schizophrenia. 
 
 <!---
 BillyBrothers/BillyBrothers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
